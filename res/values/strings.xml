@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InSight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="numMonuments">Number of monuments</string>
+    <string name="chkNearestBtnLabel">Check nearest monuuments</string>
+    <string name="prevMonumentBtnLabel">Previous Monument</string>
+    <string name="nextMonumentBtnLabel">Next Monument</string>
+    <string name="defEmptyStr">_</string>
+    <string name="monumentBuilderLabel">Builder</string>
+
+</resources>
